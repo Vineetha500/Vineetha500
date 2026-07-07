@@ -227,7 +227,6 @@ Machine Learning
 ```
 Python
 Java
-
 JavaScript
 ```
 
@@ -267,8 +266,7 @@ REST APIs
 ## Databases
 
 ```
-MongoDB
-SQLite
+MySQL
 LanceDB
 ```
 
@@ -277,7 +275,6 @@ LanceDB
 ```
 AWS
 Docker
-Linux
 Git
 GitHub
 Salesforce
