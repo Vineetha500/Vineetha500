@@ -227,8 +227,7 @@ Machine Learning
 ```
 Python
 Java
-C
-C++
+
 JavaScript
 ```
 
@@ -240,8 +239,6 @@ Large Language Models
 RAG
 Machine Learning
 Deep Learning
-Natural Language Processing
-Prompt Engineering
 Semantic Search
 AI Agents
 ```
